@@ -1,0 +1,9 @@
+ticker,weight_pct,allocated_INR,shares_to_buy,last_price,predicted_return_5d_pct,avg_volatility,strategy_rationale
+RELIANCE.NS,8.53,85312.41,59,1435.2,0.072,0.013,RELIANCE.NS: Rank #7 with 5-day predicted return of 0.07% and volatility score of 0.0130
+HDFCBANK.NS,14.99,149858.81,191,780.85,0.115,0.0135,HDFCBANK.NS: Rank #3 with 5-day predicted return of 0.12% and volatility score of 0.0135
+INFY.NS,9.44,94434.23,80,1179.2,0.086,0.0152,INFY.NS: Rank #6 with 5-day predicted return of 0.09% and volatility score of 0.0152
+SUNPHARMA.NS,17.55,175490.2,94,1847.9,0.132,0.0115,SUNPHARMA.NS: Rank #2 with 5-day predicted return of 0.13% and volatility score of 0.0115
+MARUTI.NS,13.64,136435.66,9,13726.0,0.115,0.0125,"MARUTI.NS: Rank #4 with 5-day predicted return of 0.11% (HIGH MAPE: models unreliable, using 40% Strategy A weight). High volatility score 0.0125"
+ITC.NS,19.1,190971.8,621,307.45,0.198,0.0117,ITC.NS: Rank #1 with 5-day predicted return of 0.20% and volatility score of 0.0117
+TATASTEEL.NS,5.76,57627.06,268,214.49,-0.078,0.0164,TATASTEEL.NS: Rank #8 with 5-day predicted return of -0.08% and volatility score of 0.0164
+BAJFINANCE.NS,10.99,109869.84,115,955.35,0.094,0.0156,BAJFINANCE.NS: Rank #5 with 5-day predicted return of 0.09% and volatility score of 0.0156

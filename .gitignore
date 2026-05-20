@@ -1,0 +1,11 @@
+data/raw/
+data/raw/extended/
+venv/
+__pycache__/
+*.pkl
+*.keras
+*.h5
+.streamlit/secrets.toml
+*.pyc
+.DS_Store
+state.yaml

@@ -1,0 +1,47 @@
+# TSA Capstone 2026 - Production Dependencies
+# All versions pinned for reproducibility
+# Resolves: prophet + arch + tensorflow conflicts via explicit ordering
+
+# Core Data & Computation
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Statistical Forecasting
+statsmodels==0.14.2
+pmdarima==2.0.4
+holidays==0.52
+
+# ML/DL - TensorFlow CPU (GPU not assumed)
+tensorflow-cpu==2.16.1
+keras==3.3.3
+scikit-learn==1.5.0
+
+# Prophet (install after numpy/scipy to avoid binary conflicts)
+prophet==1.1.5
+cmdstanpy==1.2.4
+
+# GARCH Volatility (install after numpy for compatibility)
+arch==7.0.0
+
+# Data Fetching
+yfinance==0.2.40
+
+# Visualization
+plotly==5.22.0
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Dashboard
+streamlit==1.35.0
+
+# Notebook Generation
+nbformat==5.10.4
+
+# Utilities
+pyyaml==6.0.1
+python-dateutil==2.9.0
+
+# Development (optional but included)
+pytest==8.2.2
+black==24.4.2
