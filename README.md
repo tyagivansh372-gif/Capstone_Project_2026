@@ -50,7 +50,7 @@ python check_env.py
 
 ```
 tsa_capstone/
-├── state.yaml              # Machine-readable project state
+├── tsa_Capstone_report.txt   #Project report 
 ├── skills.md               # Project guide and architecture
 ├── requirements.txt        # Pinned dependencies
 ├── README.md               # This file
